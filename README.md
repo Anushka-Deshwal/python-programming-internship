@@ -121,5 +121,4 @@ This repository showcases the projects developed during my Python internship and
 **Author:**
 
 Anushka Deshwal
-
 B.Tech CSE Student
