@@ -1,4 +1,4 @@
-# Python Internship Tasks 🐍
+# Python Internship Tasks 
 
 This repository contains the Python projects completed during my internship. These projects focus on strengthening programming fundamentals, problem-solving, logical thinking, and GUI application development using Python.
 
